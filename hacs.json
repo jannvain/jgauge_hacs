@@ -1,6 +1,6 @@
 {
     "name": "JGauge Panel",
     "render_readme": true,
-    "filename": "card.js"
+    "filename": "card.js",
     "content_in_root": true
   }
